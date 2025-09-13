@@ -1,5 +1,7 @@
 # AI Code Reviewer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 A simple AI-based Python tool to automatically review code for:
 - **Syntax errors**
 - **Oversized functions**
@@ -48,7 +50,18 @@ AI-code-Reviewer/
 
  📑 Future Improvements
  1. Extend error coverage beyond syntax and size.
- 
-2.  Integrate with GitHub Actions for automated code reviews.
+ 2. More types of checks (unused variables, complexity, etc.).
+ 3. Integrate with GitHub Actions for automated code reviews.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+
+👨‍💻 About
+
+Author: Siddharth Karn
+Year: 2025
+Contact: siddharthkarn1204@gmail.com
 
 
