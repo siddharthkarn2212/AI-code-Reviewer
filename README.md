@@ -12,6 +12,7 @@ This project demonstrates the use of Python for static code analysis and is desi
 
 ## 📌 Features
 - Detects and reports syntax errors in Python files.
+- report or syntax errors and oversized function .
 - Identifies functions exceeding a defined size threshold.
 - Generates human-readable reports inside the `Reports/` folder.
 - Modular design: review logic is separated (`ai.reviewer.py`) from the main entry script (`main.py`).
