@@ -19,12 +19,6 @@ This project demonstrates the use of Python for static code analysis and is desi
 
 ---
 
-## 🛠️ Tech Stack
-- **Language:** Python 3.x
-- **Libraries Used:** `ast`, `os`, `sys` (no heavy dependencies)
-
----
-
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
